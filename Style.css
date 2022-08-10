@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background: rgb(63,94,251);
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,128,70,1) 100%);
+	font-family: Bradley Hand ITC;
+	font-size: 30px;
+	justify-content: center;
+}
+#imgtres{
+	position: absolute;
+	width:400px;
+    height:400px;
+    top: 3600px;
+    left: 900px;
+}
+#imguno{
+	position: absolute;
+	width:400px;
+    height:400px;
+    top: 3600px;
+    left: 750px;
+}
