@@ -1,10 +1,11 @@
 *{
 	box-sizing: border-box;
 }
+@font-face{font-family: themillion; src: url(letra.ttf);}
 body{
 	background: rgb(63,94,251);
 	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,128,70,1) 100%);
-	font-family: Bradley Hand ITC;
+	font-family: themillion;
 	font-size: 30px;
 	justify-content: center;
 }
